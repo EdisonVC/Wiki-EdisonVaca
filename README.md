@@ -8,4 +8,5 @@ Hoy nosotros hemos obtenido conocimientos sobre Github donde podemos crear una p
 
 No necesitamos tener muchos conocimientos para poder conseguirlo de forma **exitosa**
 
+Si necestian ayuda en el lenguaje de este sitio podréis ayudaros [aquí] (https://docs.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax)
 `Un cordial saludo`:+1:
